@@ -1,0 +1,11 @@
+{
+	"title": "$:/languages/u9t/getting-started/de-DE",
+	"name": "GettingStarted",
+	"plugin-type": "language",
+	"description": "Deutsch (Deutschland)",
+	"author": "MarioPietsch aka pmario",
+	"core-version": ">=5.0.0",
+	"dependents": ["$:/languages/de-DE"],
+	"plugin-priority": 120,
+	"parent-plugin": "$:/plugins/u9t/getting-started"
+}
